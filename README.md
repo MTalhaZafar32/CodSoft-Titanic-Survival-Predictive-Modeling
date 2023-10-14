@@ -45,7 +45,7 @@ To get started with the project, follow these steps:
 1. **Clone the Repository:** Use the following command to clone the repository to your local machine:
 git clone
 ```shell
-        https://github.com/your-username/Titanic-Survival-Predictive-Modeling.git
+        https://github.com/MTalhaZafar32/CodSoft-Titanic-Survival-Predictive-Modeling/.git
 ```
 
 2. **Install Dependencies:** Ensure you have the necessary Python libraries installed. You can typically install them using `pip`.
